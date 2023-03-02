@@ -1,4 +1,4 @@
-import java.lang.invoke.StringConcatFactory;
+//import java.lang.invoke.StringConcatFactory;
 
 public class abstraccion {
 
@@ -9,7 +9,7 @@ public class abstraccion {
 }
 
 abstract class Vehiculo{
-    private String sonido;
+   // private String sonido;
 
 
    abstract public void setSonido(String sonido);

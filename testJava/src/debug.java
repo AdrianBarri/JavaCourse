@@ -21,7 +21,7 @@ public class debug {
 
     public static void funcion5() {
         System.out.println("Holaaaaa");
-        var i = 15;
+       // var i = 15;
 
         System.out.println(15/0);
     }
